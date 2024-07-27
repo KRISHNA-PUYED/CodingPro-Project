@@ -296,11 +296,11 @@ ifrResult.src="Data/CPP_Notes.pdf"
 }
 function JAVA_Notes()
 {
-ifrResult.src="ThirdData/Java_Notes.pdf"
+ifrResult.src="JavaPDF/Java_Notes.pdf"
 }
 function PYTHON_Notes()
 {
-ifrResult.src="ThirdData/Python_Notes.pdf"
+ifrResult.src="PythonPDF/Python_Notes.pdf"
 }
 
 
